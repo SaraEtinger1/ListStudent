@@ -15,6 +15,4 @@ router.delete("/:id",deleteStudent)
 
 router.put("/:id",updateStudent)
 
-// module.exports = router;
-
 export default router;
